@@ -15,6 +15,6 @@ The output of this script is a .csv which is suitable for analysis by a tool of 
 
 ## Example Post-Analysis
 
-Breakdown of number of coaches available in each country; countries coded white have zero coaches.
+Breakdown of number of coaches available in each country; countries coded white have zero coaches. This analysis was created in Google Sheets using an import of the generated .csv, a pivot table, and the map chart type. It is provided as an example.
 
 ![](Media/geo-breakdown.png)
